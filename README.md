@@ -3,10 +3,7 @@ This current protection device has a current setting that is used to determine t
 
 This mini project was carried out during an internship by Yusuf, Aufa & Ibnu
 
-SCHEMATIC DIAGRAM 
 ![image](https://drive.google.com/uc?export=view&id=1CDOe8Q1eZJkvEZjoMWh4NUX-H5ju3fuQ)
-TOOLSHAPE
 ![image](https://drive.google.com/uc?export=view&id=1yOfZ8sjOYlgsZymrflXr290fM1PLXyKa)
-BILL OF MATERIALS
 ![image](https://drive.google.com/uc?export=view&id=1hPAcHy6-fd8nxicAeFn3t4HzxromxBAp)
 ![image](https://drive.google.com/uc?export=view&id=16e6WHbZtrtpYTWJ6vzXt8NZ3Ud0TDePK)
