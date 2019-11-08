@@ -5,7 +5,7 @@ This mini project was carried out during an internship by Yusuf, Aufa & Ibnu
 
 ![image](https://drive.google.com/uc?export=view&id=1CDOe8Q1eZJkvEZjoMWh4NUX-H5ju3fuQ)
 ![image](https://drive.google.com/uc?export=view&id=1yOfZ8sjOYlgsZymrflXr290fM1PLXyKa)
-![image](https://drive.google.com/uc?export=view&id=1hPAcHy6-fd8nxicAeFn3t4HzxromxBAp)
-![image](https://drive.google.com/uc?export=view&id=16e6WHbZtrtpYTWJ6vzXt8NZ3Ud0TDePK)
 ![image](https://drive.google.com/uc?export=view&id=1YMcqQ_2QNQMaPjEfY8bU7MUxxMni3af2)
 ![image](https://drive.google.com/uc?export=view&id=1_U7kOGEhQLuUuY7MhvAAdNKHKSEeqn_8)
+![image](https://drive.google.com/uc?export=view&id=1hPAcHy6-fd8nxicAeFn3t4HzxromxBAp)
+![image](https://drive.google.com/uc?export=view&id=16e6WHbZtrtpYTWJ6vzXt8NZ3Ud0TDePK)
